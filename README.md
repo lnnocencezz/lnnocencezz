@@ -1,6 +1,6 @@
 <p align="center">
   <h1 height="200px" align="center">
-    Hi everBody!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">  I'm new year
+    Hi everBody!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">  I'm New In
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
